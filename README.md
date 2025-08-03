@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Durgesh Kumar</h1>
 <h3 align="center">Full Stack Web Developer & Curious learner</h3>
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 - 🔭 I’m currently working on **Full Stack Projects**
 - 🎓 I’m currently pursuing **Full Stack Web Development at [Masai School](https://www.masaischool.com)**
@@ -39,6 +39,11 @@
 ### 📫 Let's Connect:
 
 <p align="left">
-  <a href="[https://linkedin.com/in/durgeshkumar](https://www.linkedin.com/in/durgeshkr5/)" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" /></a>
-  <a href="mailto:durgeshkr.ece@gmail.com" target="blank"><img align="center" src="https://skillicons.dev/icons?i=gmail" alt="email" /></a>
+  <a href="https://www.linkedin.com/in/durgeshkr5/" target="_blank">
+    <img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" />
+  </a>
+  <a href="mailto:durgeshkr.ece@gmail.com" target="_blank">
+    <img align="center" src="https://skillicons.dev/icons?i=gmail" alt="email" />
+  </a>
 </p>
+
