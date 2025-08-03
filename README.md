@@ -27,14 +27,14 @@
 </p>
 
 ---
+### 🧠 Top Languages
 
-### 🏆 Featured Projects
-
-- 🔗 [Destination Recommendation Platform](https://github.com/durgeshkumar/destination-recommender) — AI-powered travel planner
-- 🔗 [BugTracker Pro](https://github.com/durgeshkumar/bugtracker-pro) — Developer debugging tool with state filter
-- 🔗 [MERN Todo App](https://github.com/durgeshkumar/mern-todo-app) — CRUD + Authentication + Tailwind UI
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=durgeshkr-5&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
 ---
+
 
 ### 📫 Let's Connect:
 
