@@ -22,8 +22,8 @@
 ### 📈 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=durgeskr-5&show_icons=true&locale=en" alt="durgeshkumar" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=durgeskr-5" alt="durgeshkumar" />
+  <img src="https://github-readme-stats.vercel.app/api?username=durgeshkr-5&show_icons=true&locale=en" alt="durgeshkumar" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=durgeshkr-5" alt="durgeshkumar" />
 </p>
 
 ---
