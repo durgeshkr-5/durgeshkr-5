@@ -22,8 +22,8 @@
 ### 📈 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=durgeshkumar&show_icons=true&locale=en" alt="durgeshkumar" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=durgeshkumar" alt="durgeshkumar" />
+  <img src="https://github-readme-stats.vercel.app/api?username=durgeskr-5&show_icons=true&locale=en" alt="durgeshkumar" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=durgeskr-5" alt="durgeshkumar" />
 </p>
 
 ---
@@ -39,7 +39,6 @@
 ### 📫 Let's Connect:
 
 <p align="left">
-  <a href="https://linkedin.com/in/durgeshkumar" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" /></a>
-  <a href="https://twitter.com/durgesh_code" target="blank"><img align="center" src="https://skillicons.dev/icons?i=twitter" alt="twitter" /></a>
-  <a href="mailto:durgesh.email@example.com" target="blank"><img align="center" src="https://skillicons.dev/icons?i=gmail" alt="email" /></a>
+  <a href="[https://linkedin.com/in/durgeshkumar](https://www.linkedin.com/in/durgeshkr5/)" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" /></a>
+  <a href="mailto:durgeshkr.ece@gmail.com" target="blank"><img align="center" src="https://skillicons.dev/icons?i=gmail" alt="email" /></a>
 </p>
