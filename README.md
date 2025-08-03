@@ -7,7 +7,7 @@
 - 🎓 I’m currently pursuing Full Stack Web Development at [Masai School](https://www.masaischool.com)
 - 🌱 I’m learning React, Redux-tookit, Node.js, Express.js, MongoDb, System Design 
 - 💬 Ask me about HTML, CSS, JavaScript, TypeScript, React, Node.js, Express.js, MongoDB, Redux-toolkit
-- 📫 How to reach me: [durgeshkr.ece@gmail.com](https://www.linkedin.com/in/durgeshkr5/)
+- 📫 How to reach me: https://www.linkedin.com/in/durgeshkr5/
 - ⚡ Fun fact: I turn ideas into real-world projects that solve real problems.
 ---
 
