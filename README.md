@@ -3,11 +3,11 @@
 
 <img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-- 🔭 I’m currently working on **Full Stack Projects**
-- 🎓 I’m currently pursuing **Full Stack Web Development at [Masai School](https://www.masaischool.com)**
-- 🌱 I’m learning **React, Redux-tookit, Node.js, Express.js, MongoDb, System Design **
-- 💬 Ask me about **HTML, CSS, JavaScript, TypeScript, React, Node.js, Express.js, MongoDB, Redux-toolkit**
-- 📫 How to reach me: **durgeshkr.ece@gmail.com**
+
+- 🎓 I’m currently pursuing Full Stack Web Development at [Masai School](https://www.masaischool.com)
+- 🌱 I’m learning React, Redux-tookit, Node.js, Express.js, MongoDb, System Design 
+- 💬 Ask me about HTML, CSS, JavaScript, TypeScript, React, Node.js, Express.js, MongoDB, Redux-toolkit
+- 📫 How to reach me: durgeshkr.ece@gmail.com
 - ⚡ Fun fact: I turn ideas into real-world projects that solve real problems.
 ---
 
